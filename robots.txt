@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://gajoleca.github.io/sitemap/sitemap_index.gajoleca
+Sitemap: https://gajoleca.github.io/mwp/sitemap_index.gajoleca
+Sitemap: https://gajoleca.github.io/RgJ/sitemap_index.gajoleca
+Sitemap: https://gajoleca.github.io/Zgj/sitemap_index.gajoleca
+Sitemap: https://gajoleca.github.io/jPE/sitemap_index.gajoleca
+Sitemap: https://gajoleca.github.io/Vrc/sitemap_index.gajoleca
+Sitemap: https://gajoleca.github.io/iyY/sitemap_index.gajoleca
+Sitemap: https://gajoleca.github.io/ZxA/sitemap_index.gajoleca
+Sitemap: https://gajoleca.github.io/ZGI/sitemap_index.gajoleca
+Sitemap: https://gajoleca.github.io/rvE/sitemap_index.gajoleca
+Sitemap: https://gajoleca.github.io/iRw/sitemap_index.gajoleca
+Sitemap: https://gajoleca.github.io/aVB/sitemap_index.gajoleca
+Sitemap: https://gajoleca.github.io/JNY/sitemap_index.gajoleca
+Sitemap: https://gajoleca.github.io/jpv/sitemap_index.gajoleca
+Sitemap: https://gajoleca.github.io/mSq/sitemap_index.gajoleca
+Sitemap: https://gajoleca.github.io/bkN/sitemap_index.gajoleca
+Sitemap: https://gajoleca.github.io/iWB/sitemap_index.gajoleca
+Sitemap: https://gajoleca.github.io/Vny/sitemap_index.gajoleca
+Sitemap: https://gajoleca.github.io/LeR/sitemap_index.gajoleca
+Sitemap: https://gajoleca.github.io/wUY/sitemap_index.gajoleca
+Sitemap: https://gajoleca.github.io/ZPv/sitemap_index.gajoleca
